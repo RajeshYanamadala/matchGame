@@ -1,0 +1,12 @@
+.tab-list {
+  list-style: none;
+  margin: 10px;
+}
+.btn {
+  color: #ffffff;
+  background-color: transparent;
+  font-size: 18px;
+  border: none;
+  border-bottom: 2px solid #fec653;
+  cursor: pointer;
+}
